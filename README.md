@@ -1,2 +1,30 @@
 # My-Projects
 Collection of my projects
+
+ML projects
+https://github.com/erenaktuerk/energy_predict
+https://github.com/erenaktuerk/House-Price_prediction
+
+Python: Exploratory Statistics
+https://github.com/erenaktuerk/Titanic-Exploratory-Data-Analysis
+
+Tensorflow Learning Units
+https://github.com/erenaktuerk/tensorflow-learning-part-one
+https://github.com/erenaktuerk/tensorflow-learning-part-two
+
+Python: Conventional coding
+https://github.com/erenaktuerk/ToDo-API
+https://github.com/erenaktuerk/movies_pagination
+https://github.com/erenaktuerk/Movies
+https://github.com/erenaktuerk/menu
+https://github.com/erenaktuerk/football
+
+Web Development
+https://github.com/erenaktuerk/html-portfolio
+https://github.com/erenaktuerk/menu
+https://github.com/erenaktuerk/Movies
+https://github.com/erenaktuerk/movies_pagination
+https://github.com/erenaktuerk/football
+https://github.com/erenaktuerk/ErensPage
+https://github.com/erenaktuerk/erenspersonalpage
+https://github.com/erenaktuerk/cv
