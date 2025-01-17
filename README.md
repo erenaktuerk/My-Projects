@@ -1,5 +1,5 @@
 # My-Projects
-Collection of my projects
+Collection and categorization of my projects
 
 ML projects
 - https://github.com/erenaktuerk/energy_predict
