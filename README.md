@@ -17,10 +17,6 @@ Tensorflow Learning Units
 
 Python: Conventional coding
 - https://github.com/erenaktuerk/ToDo-API
-- https://github.com/erenaktuerk/movies_pagination
-- https://github.com/erenaktuerk/Movies
-- https://github.com/erenaktuerk/menu
-- https://github.com/erenaktuerk/football
 
 Web Development
 - https://github.com/erenaktuerk/html-portfolio
