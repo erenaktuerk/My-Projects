@@ -1,11 +1,14 @@
 # My-Projects
 Collection and categorization of my projects
 
-ML projects
+Machine Learning projects
 - https://github.com/erenaktuerk/energy_predict
 - https://github.com/erenaktuerk/House-Price_prediction
 
-Python: Exploratory Statistics
+ML API Deployment
+- https://github.com/erenaktuerk/credit_risk_api
+
+Python: Exploratory Statistics for Machine Learning
 - https://github.com/erenaktuerk/Titanic-Exploratory-Data-Analysis
 
 Tensorflow Learning Units
