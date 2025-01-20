@@ -15,8 +15,8 @@ Tensorflow Learning Units
 - https://github.com/erenaktuerk/tensorflow-learning-part-one
 - https://github.com/erenaktuerk/tensorflow-learning-part-two
 
-Python: Conventional coding
-- https://github.com/erenaktuerk/ToDo-API
+Python: Restful API
+- https://github.com/erenaktuerk/To_Do_API
 
 Web Development
 - https://github.com/erenaktuerk/html-portfolio
