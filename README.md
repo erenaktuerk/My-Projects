@@ -2,6 +2,7 @@
 Collection and categorization of my projects
 
 Machine Learning projects
+- https://github.com/erenaktuerk/bert-text-classifier
 - https://github.com/erenaktuerk/energy_predict
 - https://github.com/erenaktuerk/House-Price_prediction
 
