@@ -3,8 +3,8 @@ Collection and categorization of my projects
 
 Machine Learning projects
 - https://github.com/erenaktuerk/bert-text-classifier
-- https://github.com/erenaktuerk/energy_predict
-- https://github.com/erenaktuerk/House-Price_prediction
+- https://github.com/erenaktuerk/energy-predict
+- https://github.com/erenaktuerk/House-Price-prediction
 
 ML API Deployment
 - https://github.com/erenaktuerk/credit_risk_api
