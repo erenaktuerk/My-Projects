@@ -7,7 +7,7 @@ Machine Learning projects
 - https://github.com/erenaktuerk/house-price-prediction
 
 ML API Deployment
-- https://github.com/erenaktuerk/credit_risk_api
+- https://github.com/erenaktuerk/credit-risk-api
 
 Python: Exploratory Statistics for Machine Learning
 - https://github.com/erenaktuerk/Titanic-Exploratory-Data-Analysis
