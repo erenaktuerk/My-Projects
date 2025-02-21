@@ -11,8 +11,11 @@ A regression model designed to predict Apple Inc. (AAPL) stock prices using hist
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 - **Key features**:
 	•	Advanced data preprocessing and feature engineering
+
 	•	Hyperparameter optimization using grid search and/or Bayesian methods
+
 	•	Comprehensive model comparison to evaluate performance metrics
+
 - **Status**: Completed
 
 ### [BERT Text Classifier](https://github.com/erenaktuerk/bert-text-classifier)  
