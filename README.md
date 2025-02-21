@@ -56,7 +56,14 @@ A project that predicts house prices using machine learning, focusing on various
 A machine learning model for predicting credit risk, deployed as an API. This project demonstrates the deployment of ML models into production using Flask.
 
 - **Technologies used**: Python, Flask, Scikit-learn, Pandas
-- **Key features**: Credit risk prediction, model deployment, RESTful API
+- **Key features**: 
+
+	•	Real-Time Risk Assessment: Provides immediate credit risk predictions by processing incoming financial data through the deployed model.
+
+	•	Secure & Scalable Deployment: Utilizes Flask with best practices for API security and scalability, ensuring reliable operation in production environments.
+
+	•	Comprehensive Logging & Monitoring: Features detailed error handling, logging, and performance tracking to facilitate ongoing maintenance and optimization.
+
 - **Status**: Completed
 
 ## Python: Exploratory Statistics for Machine Learning
@@ -65,7 +72,14 @@ A machine learning model for predicting credit risk, deployed as an API. This pr
 An exploratory analysis of the Titanic dataset to gain insights into the data and understand key features for prediction.
 
 - **Technologies used**: Python, Pandas, Matplotlib, Seaborn
-- **Key features**: Data exploration, data visualization, hypothesis testing
+- **Key features**: 
+
+	•	In-Depth Data Exploration: Conducts a systematic analysis of missing values, distributions, and variable correlations to reveal hidden patterns.
+
+	•	Advanced Data Visualization: Leverages Matplotlib and Seaborn to create compelling visualizations (e.g., heatmaps, pair plots) that effectively communicate data trends.
+
+	•	Rigorous Hypothesis Testing: Applies statistical tests to validate assumptions and identify significant predictors, laying the groundwork for future predictive modeling.
+
 - **Status**: Completed
 
 ## TensorFlow Learning Units
@@ -90,7 +104,14 @@ The second part of the learning series, focusing on more advanced TensorFlow con
 A simple RESTful API for managing a to-do list, with CRUD operations for adding, updating, and deleting tasks.
 
 - **Technologies used**: Python, Flask, SQLite
-- **Key features**: CRUD operations, RESTful API, task management
+- **Key features**: 
+
+	•	Comprehensive CRUD Implementation: Enables robust management of tasks through fully functional Create, Read, Update, and Delete operations.
+
+	•	Scalable RESTful Design: Adheres to REST principles for stateless communication, facilitating seamless integration with various front-end applications.
+
+	•	Efficient Data Persistence: Utilizes SQLite for lightweight data storage, coupled with thorough error handling and validation to ensure data integrity.
+
 - **Status**: Completed
 
 ## Web Development
