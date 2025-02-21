@@ -2,6 +2,7 @@
 Collection and categorization of my projects
 
 Machine Learning projects
+- https://github.com/erenaktuerk/aapl-share-prediction
 - https://github.com/erenaktuerk/bert-text-classifier
 - https://github.com/erenaktuerk/energy-predict
 - https://github.com/erenaktuerk/house-price-prediction
