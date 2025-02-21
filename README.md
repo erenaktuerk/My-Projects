@@ -5,19 +5,25 @@ Collection and categorization of my projects
 ## Machine Learning Projects
 
 ### [AAPL Share Prediction](https://github.com/erenaktuerk/aapl-share-prediction)  
-A regression model predicting Apple stock prices (AAPL) based on various factors, such as historical stock data and temporal features. The project utilizes machine learning algorithms to predict future prices.
+A regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data and temporal features. This project not only emphasizes thorough data preprocessing and feature engineering but also incorporates extensive hyperparameter optimization and model comparison to identify the best-performing regression algorithms.
 
 - **Model Type**: Regression
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
-- **Key features**: Stock price prediction, data preprocessing, hyperparameter optimization
+- **Key features**:
+	•	Advanced data preprocessing and feature engineering
+	•	Hyperparameter optimization using grid search and/or Bayesian methods
+	•	Comprehensive model comparison to evaluate performance metrics
 - **Status**: Completed
 
 ### [BERT Text Classifier](https://github.com/erenaktuerk/bert-text-classifier)  
-A natural language processing (NLP) project using BERT to classify text data into different categories. Focused on exploring the power of transformer models for text classification tasks.
+A natural language processing project that leverages the power of the BERT transformer model to classify text data into distinct categories. This project focuses on fine-tuning a pre-trained BERT model while integrating hyperparameter optimization techniques to enhance classification accuracy and overall model performance.
 
 - **Model Type**: Classification
 - **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
-- **Key features**: Text classification, BERT fine-tuning, transfer learning
+- **Key features**:
+	•	Fine-tuning of a pre-trained BERT model for domain-specific text classification
+	•	Integration of hyperparameter tuning to optimize model performance
+	•	Robust evaluation framework for classification metrics
 - **Status**: Completed
 
 ### [Energy Predict](https://github.com/erenaktuerk/energy-predict)  
