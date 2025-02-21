@@ -10,6 +10,7 @@ A regression model designed to predict Apple Inc. (AAPL) stock prices using hist
 - **Model Type**: Regression
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 - **Key features**:
+- 
 	•	Advanced data preprocessing and feature engineering
 
 	•	Hyperparameter optimization using grid search and/or Bayesian methods
@@ -24,9 +25,13 @@ A natural language processing project that leverages the power of the BERT trans
 - **Model Type**: Classification
 - **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
 - **Key features**:
+- 
 	•	Fine-tuning of a pre-trained BERT model for domain-specific text classification
+
 	•	Integration of hyperparameter tuning to optimize model performance
+
 	•	Robust evaluation framework for classification metrics
+
 - **Status**: Completed
 
 ### [Energy Predict](https://github.com/erenaktuerk/energy-predict)  
