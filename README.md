@@ -5,32 +5,40 @@ Collection and categorization of my projects
 ## Machine Learning Projects
 
 ### [AAPL Share Prediction](https://github.com/erenaktuerk/aapl-share-prediction)  
-A regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data and temporal features. This project not only emphasizes thorough data preprocessing and feature engineering but also incorporates extensive hyperparameter optimization and model comparison to identify the best-performing regression algorithms.
+A regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data, temporal features (such as time of day, previous closing prices), and advanced machine learning techniques. The project emphasizes data preprocessing, feature engineering, and hyperparameter optimization to achieve high accuracy.
 
 - **Model Type**: Regression
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 - **Key features**:
- 
-	•	Advanced data preprocessing and feature engineering
-
-	•	Hyperparameter optimization using grid search and/or Bayesian methods
-
-	•	Comprehensive model comparison to evaluate performance metrics
+	•	Advanced Data Preprocessing: Thorough cleaning and feature selection to ensure high-quality input data.
+	•	Feature Engineering: Derivation of temporal features to capture market trends and stock patterns.
+	•	Hyperparameter Optimization: Extensive use of RandomizedSearchCV for model tuning, maximizing predictive accuracy.
+	•	Model Comparison: Evaluation of both XGBoost and TensorFlow-based MLP to determine the best-performing model.
+	•	Cross-Validation: Comprehensive validation with optimized folds to avoid overfitting and ensure robustness.
+- **Project Highlights**:
+	•	Problem: Predicting future AAPL stock prices based on historical data to support investment decisions.
+	•	Methodology: The project incorporates XGBoost and a TensorFlow-based MLP to assess which model best fits the prediction task. Hyperparameter optimization and data preprocessing techniques are crucial in obtaining high accuracy.
+	•	Results & Evaluation: The model performance is evaluated using key metrics like RMSE, MAE, and visualized via relevant plots (e.g., loss curves, performance plots). Cross-validation results further validate model robustness.
+	•	Lessons Learned: The project emphasizes the importance of data quality, feature selection, and hyperparameter optimization. Future iterations could focus on expanding the feature set or using more advanced ensemble methods.
 
 - **Status**: Completed
 
 ### [BERT Text Classifier](https://github.com/erenaktuerk/bert-text-classifier)  
-A natural language processing project that leverages the power of the BERT transformer model to classify text data into distinct categories. This project focuses on fine-tuning a pre-trained BERT model while integrating hyperparameter optimization techniques to enhance classification accuracy and overall model performance.
+A text classification project that leverages the power of BERT (Bidirectional Encoder Representations from Transformers) to classify text data into predefined categories. This project emphasizes advanced Natural Language Processing techniques, data preprocessing, model training, and evaluation using state-of-the-art transformer-based models for high performance.
 
 - **Model Type**: Classification
 - **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
 - **Key features**:
- 
-	•	Fine-tuning of a pre-trained BERT model for domain-specific text classification
-
-	•	Integration of hyperparameter tuning to optimize model performance
-
-	•	Robust evaluation framework for classification metrics
+	•	Text Preprocessing: Cleans and tokenizes raw text data using state-of-the-art methods.
+	•	BERT Model Training: Fine-tunes a pre-trained BERT model for text classification tasks.
+	•	Evaluation: Computes classification metrics such as accuracy, precision, recall, and F1-score on validation data.
+	•	Visualization: Generates performance plots and confusion matrices to assess model performance.
+	•	TPU Support: Optimized for training on TPU hardware for faster model training.
+**Project Highlights**:
+	•	Problem: Developing a robust text classifier using BERT to categorize raw text data into predefined labels. This solution can be used in real-world applications such as sentiment analysis, spam detection, or topic classification.
+	•	Methodology: The project utilizes a pre-trained BERT model, fine-tuned with custom data. Various preprocessing steps, including text cleaning, tokenization, and padding, ensure the input data is suitable for BERT. Hyperparameters are optimized, and the model is trained on TPU for improved performance.
+	•	Results & Evaluation: The classifier’s performance is evaluated using accuracy, precision, recall, F1-score, and confusion matrices. Key visualizations, including training/validation loss curves and confusion matrices, help assess the model’s effectiveness.
+	•	Lessons Learned: This project highlights the power of pre-trained transformer models and the importance of fine-tuning them for specific tasks. Future improvements could include experimenting with other transformer models or adding more layers to the neural network.
 
 - **Status**: Completed
 
