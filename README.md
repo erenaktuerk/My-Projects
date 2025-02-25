@@ -39,15 +39,25 @@ A regression model designed to predict Apple Inc. (AAPL) stock prices using hist
 - **Model Type**: Regression
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 - **Key features**:
+
 	•	Advanced Data Preprocessing: Thorough cleaning and feature selection to ensure high-quality input data.
+
 	•	Feature Engineering: Derivation of temporal features to capture market trends and stock patterns.
+
 	•	Hyperparameter Optimization: Extensive use of RandomizedSearchCV for model tuning, maximizing predictive accuracy.
+
 	•	Model Comparison: Evaluation of both XGBoost and TensorFlow-based MLP to determine the best-performing model.
+
 	•	Cross-Validation: Comprehensive validation with optimized folds to avoid overfitting and ensure robustness.
+
 - **Project Highlights**:
+
 	•	Problem: Predicting future AAPL stock prices based on historical data to support investment decisions.
+
 	•	Methodology: The project incorporates XGBoost and a TensorFlow-based MLP to assess which model best fits the prediction task. Hyperparameter optimization and data preprocessing techniques are crucial in obtaining high accuracy.
+
 	•	Results & Evaluation: The model performance is evaluated using key metrics like RMSE, MAE, and visualized via relevant plots (e.g., loss curves, performance plots). Cross-validation results further validate model robustness.
+
 	•	Lessons Learned: The project emphasizes the importance of data quality, feature selection, and hyperparameter optimization. Future iterations could focus on expanding the feature set or using more advanced ensemble methods.
 
 - **Status**: Completed
