@@ -4,6 +4,24 @@ Collection and categorization of my projects
 
 ## Machine Learning Projects
 
+### [CNN CIFAR-10 Image Classifier](https://github.com/erenaktuerk/cnn-cifar10-classifier)
+A robust and highly optimized image classification project that leverages an advanced Convolutional Neural Network (CNN) to accurately classify CIFAR-10 images. This project demonstrates an end-to-end deep learning pipeline that combines state-of-the-art techniques—including hyperparameter tuning, data augmentation, feature map visualization, and Grad-CAM analysis—to create a solution that is both practically applicable and technically impressive.
+- **Model Type**: Convolutional Neural Network (CNN)
+- **Technologies Used**: Python, TensorFlow, Keras, Keras Tuner, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Key Features**: 
+	•	Advanced CNN Architecture: A multi-block network with several convolutional layers enhanced by Batch Normalization and Dropout, enabling deep feature extraction with minimal overfitting.
+	•	Comprehensive Hyperparameter Tuning: Utilizes Keras Tuner to optimize parameters such as filter counts, kernel sizes, dropout rates, dense layer units, and learning rates for near-optimal performance.
+	•	Real-Time Data Augmentation: Incorporates dynamic data augmentation techniques to further boost model generalization and robustness in real-world scenarios.
+	•	Model Interpretability: Provides in-depth insights with Feature Map Visualizations and Grad-CAM overlays, revealing the inner workings of the CNN and highlighting the critical regions influencing predictions.
+	•	Modular End-to-End Pipeline: A seamless integration of data preprocessing, training, evaluation, and visualization that ensures scalability and ease of deployment in production environments.
+- **Project Highlights**:
+	•	Practical and Production-Ready: Built to solve real-world image classification challenges with a focus on reliability, interpretability, and performance.
+	•	Problem-Solving Oriented: Addresses common deep learning issues such as overfitting, hyperparameter selection, and model transparency, making it a comprehensive solution for complex computer vision tasks.
+	•	Impressive Performance: Achieves robust accuracy on the CIFAR-10 dataset, validated through extensive evaluation metrics including confusion matrices and classification reports.
+	•	Innovative Visual Insights: Advanced visualizations (accuracy/loss curves, feature maps, Grad-CAM) provide a deep understanding of the model’s behavior and decision-making process.
+	•	Scalable and Extensible Architecture: Designed with modularity in mind, allowing for future enhancements such as ensemble methods or transfer learning to be incorporated effortlessly.
+- **Status**: Completed
+
 ### [AAPL Share Prediction](https://github.com/erenaktuerk/aapl-share-prediction)  
 A regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data, temporal features (such as time of day, previous closing prices), and advanced machine learning techniques. The project emphasizes data preprocessing, feature engineering, and hyperparameter optimization to achieve high accuracy.
 
