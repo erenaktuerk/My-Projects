@@ -68,15 +68,25 @@ A text classification project that leverages the power of BERT (Bidirectional En
 - **Model Type**: Classification
 - **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
 - **Key features**:
+
 	•	Text Preprocessing: Cleans and tokenizes raw text data using state-of-the-art methods.
+
 	•	BERT Model Training: Fine-tunes a pre-trained BERT model for text classification tasks.
+
 	•	Evaluation: Computes classification metrics such as accuracy, precision, recall, and F1-score on validation data.
+
 	•	Visualization: Generates performance plots and confusion matrices to assess model performance.
+
 	•	TPU Support: Optimized for training on TPU hardware for faster model training.
+
 **Project Highlights**:
+
 	•	Problem: Developing a robust text classifier using BERT to categorize raw text data into predefined labels. This solution can be used in real-world applications such as sentiment analysis, spam detection, or topic classification.
+ 
 	•	Methodology: The project utilizes a pre-trained BERT model, fine-tuned with custom data. Various preprocessing steps, including text cleaning, tokenization, and padding, ensure the input data is suitable for BERT. Hyperparameters are optimized, and the model is trained on TPU for improved performance.
+ 
 	•	Results & Evaluation: The classifier’s performance is evaluated using accuracy, precision, recall, F1-score, and confusion matrices. Key visualizations, including training/validation loss curves and confusion matrices, help assess the model’s effectiveness.
+ 
 	•	Lessons Learned: This project highlights the power of pre-trained transformer models and the importance of fine-tuning them for specific tasks. Future improvements could include experimenting with other transformer models or adding more layers to the neural network.
 
 - **Status**: Completed
