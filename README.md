@@ -177,8 +177,22 @@ A simple RESTful API for managing a to-do list, with CRUD operations for adding,
 	•	Efficient Data Persistence: Utilizes SQLite for lightweight data storage, coupled with thorough error handling and validation to ensure data integrity.
 
 - **Status**: Completed
+- 
+## Web Development - My Projects @RacineDeux
+The following only lists projects that I worked on alone as part of my employment. These are reuploads because I worked with a work account as part of my employment. I do not upload group work, which made up the majority of the employment, to my private profile. 
 
-## Web Development
+### [Kristall Restaurant - web page](https://github.com/erenaktuerk/kristallweb)
+
+### [Cayan Meisterbetrieb - web page](https://github.com/erenaktuerk/cayanmeisterbetrieb)
+
+### [Net Immobilien - web page](https://github.com/erenaktuerk/netimmobilien)
+
+### [Tiggolino - web page](https://github.com/erenaktuerk/tiggolino)
+
+### [Tumuratas - web page](https://github.com/erenaktuerk/Tumuratas)
+
+
+## Web Development - Early steps
 
 ### [HTML Portfolio](https://github.com/erenaktuerk/html-portfolio)  
 A basic personal portfolio website built using HTML and CSS, showcasing web development skills.
