@@ -5,32 +5,32 @@ Collection and categorization of my projects
 ## Machine Learning Projects
 
 ### [CNN CIFAR-10 Image Classifier](https://github.com/erenaktuerk/cnn-cifar10-classifier)
-A robust and highly optimized image classification project that leverages an advanced Convolutional Neural Network (CNN) to accurately classify CIFAR-10 images. This project demonstrates an end-to-end deep learning pipeline that combines state-of-the-art techniques—including hyperparameter tuning, data augmentation, feature map visualization, and Grad-CAM analysis—to create a solution that is both practically applicable and technically impressive.
+A professionally designed image classification solution using an advanced Convolutional Neural Network (CNN) architecture. This project incorporates a robust deep learning pipeline with hyperparameter optimization, data augmentation, and model interpretability, focusing on real-world applications and deployment.
 - **Model Type**: Convolutional Neural Network (CNN)
 - **Technologies Used**: Python, TensorFlow, Keras, Keras Tuner, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Key Features**:
   
-	•	Advanced CNN Architecture: A multi-block network with several convolutional layers enhanced by Batch Normalization and Dropout, enabling deep feature extraction with minimal overfitting.
+	•	Optimized CNN Architecture: Deep feature extraction with minimal overfitting, using Batch Normalization and Dropout layers.
 
-	•	Comprehensive Hyperparameter Tuning: Utilizes Keras Tuner to optimize parameters such as filter counts, kernel sizes, dropout rates, dense layer units, and learning rates for near-optimal performance.
+	•	Efficient Hyperparameter Tuning: Leverages Keras Tuner for optimizing key parameters to maximize model performance.
 
-	•	Real-Time Data Augmentation: Incorporates dynamic data augmentation techniques to further boost model generalization and robustness in real-world scenarios.
+	•	Data Augmentation: Enhances model generalization through real-time augmentation techniques.
 
-	•	Model Interpretability: Provides in-depth insights with Feature Map Visualizations and Grad-CAM overlays, revealing the inner workings of the CNN and highlighting the critical regions influencing predictions.
+	•	Model Interpretability: Utilizes feature map visualizations and Grad-CAM to explain model decisions.
 
-	•	Modular End-to-End Pipeline: A seamless integration of data preprocessing, training, evaluation, and visualization that ensures scalability and ease of deployment in production environments.
+	•	Modular Pipeline: A flexible, end-to-end pipeline suitable for both research and production environments.
 
 - **Project Highlights**:
 
-	•	Practical and Production-Ready: Built to solve real-world image classification challenges with a focus on reliability, interpretability, and performance.
+	•	Real-World Applications: Focused on reliability and performance in practical settings.
 
 	•	Problem-Solving Oriented: Addresses common deep learning issues such as overfitting, hyperparameter selection, and model transparency, making it a comprehensive solution for complex computer vision tasks.
 
-	•	Impressive Performance: Achieves robust accuracy on the CIFAR-10 dataset, validated through extensive evaluation metrics including confusion matrices and classification reports.
+	•	Problem-Solving Approach: Addresses challenges like overfitting and hyperparameter selection.
 
-	•	Innovative Visual Insights: Advanced visualizations (accuracy/loss curves, feature maps, Grad-CAM) provide a deep understanding of the model’s behavior and decision-making process.
+	•	High Performance: Achieves competitive accuracy on CIFAR-10 with thorough evaluation.
 
-	•	Scalable and Extensible Architecture: Designed with modularity in mind, allowing for future enhancements such as ensemble methods or transfer learning to be incorporated effortlessly.
+	•	Scalable Architecture: Designed to easily integrate enhancements and future improvements.
 - **Status**: Completed
 
 ### [AAPL Share Prediction](https://github.com/erenaktuerk/aapl-share-prediction)  
@@ -102,36 +102,33 @@ A machine learning model designed to predict energy consumption based on tempora
 - **Status**: Completed
 
 ### [House Price Prediction](https://github.com/erenaktuerk/house-price-prediction)  
-A highly optimized machine learning project aimed at predicting house prices using various features such as location, square footage, and overall condition. This project employs a combination of state-of-the-art techniques, including advanced model selection, hyperparameter tuning, and rigorous cross-validation, to deliver accurate, reliable, and interpretable predictions. The solution is designed to be both practically applicable and technically robust, showcasing industry-standard practices for building and deploying machine learning models.
+A practical and performance-driven machine learning project for house price prediction, using features like location, square footage, and condition. By combining advanced model selection, hyperparameter tuning, and cross-validation, it delivers accurate and interpretable results, following industry best practices.
 
 - **Model Type**: Regression (XGBoost, TensorFlow-based MLP)
 - **Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation
 - **Key features**: 
 
-	•	Multiple Model Comparison: Implements both XGBoost and TensorFlow-based MLP models to benchmark and identify the best-performing approach for predicting house prices.
+	•	Model Benchmarking: Compares XGBoost and TensorFlow-based MLP to select the best-performing approach.
 
-	•	Comprehensive Hyperparameter Tuning: Uses RandomizedSearchCV for efficient exploration of hyperparameters, optimizing critical settings such as learning rate, maximum depth, and number of estimators for near-optimal model performance.
+	•	Hyperparameter Tuning: Uses RandomizedSearchCV to efficiently optimize key parameters.
 
-	•	Robust Cross-Validation: Employs KFold cross-validation to ensure the model’s stability and generalizability, resulting in reliable performance across diverse datasets.
+	•	Robust Cross-Validation: KFold cross-validation ensures stability and generalization.
 
-	•	Model Evaluation and Metrics: Comprehensive evaluation using performance metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² score to deliver a well-rounded model assessment.
+	•	Comprehensive Evaluation: Assesses performance with RMSE, MAE, MSE, and R² scores.
 
-	•	Feature Importance Visualization: Visualizes feature importance to understand how individual attributes impact house price predictions, aiding in model transparency and interpretability.
+	•	Feature Importance: Visualizes key factors influencing price predictions for better interpretability.
 
-	•	End-to-End Machine Learning Pipeline: A fully integrated pipeline from data preprocessing to model evaluation and visualization, ensuring scalability, ease of use, and practical deployment.
+	•	End-to-End Pipeline: Covers data preprocessing, model training, and evaluation for seamless deployment.
 
 - **Project Highlights**: 
 
-	•	Real-World Applicability: Designed to solve practical house price prediction problems, offering a reliable solution for stakeholders in real estate, investment, and market analysis.
+	•	Real-World Focus: Solves practical house price prediction challenges with reliable performance.
 
-	•	Problem-Solving Oriented: Focuses on overcoming common challenges such as feature selection, model selection, hyperparameter optimization, and ensuring robust generalization across data variations.
+	•	Problem-Solving Oriented: Addresses feature selection, model optimization, and generalization.
 
-	•	High Performance and Interpretability: Achieves strong performance metrics while maintaining transparency, making it suitable for decision-makers who require reliable predictions and an understanding of how the model works.
+	•	High Performance & Transparency: Balances strong metrics with interpretability.
 
-	•	Scalable and Modular Architecture: Built with scalability in mind, allowing for future improvements such as additional feature engineering, model updates, or even incorporating more complex algorithms like deep learning.
-
-	•	Production-Ready: Well-structured and professionally documented codebase, suitable for deployment in production environments, ensuring ease of maintenance and enhancement.
-
+	•	Scalable Design: Easily adaptable for future improvements and feature expansion.
 - **Status**: Completed
 
 ## ML API Deployment
