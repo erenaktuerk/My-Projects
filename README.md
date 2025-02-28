@@ -102,11 +102,36 @@ A machine learning model designed to predict energy consumption based on tempora
 - **Status**: Completed
 
 ### [House Price Prediction](https://github.com/erenaktuerk/house-price-prediction)  
-A project that predicts house prices using machine learning, focusing on various features such as location, size, and amenities. Implements multiple algorithms for comparison.
+A highly optimized machine learning project aimed at predicting house prices using various features such as location, square footage, and overall condition. This project employs a combination of state-of-the-art techniques, including advanced model selection, hyperparameter tuning, and rigorous cross-validation, to deliver accurate, reliable, and interpretable predictions. The solution is designed to be both practically applicable and technically robust, showcasing industry-standard practices for building and deploying machine learning models.
 
-- **Model Type**: Regression
-- **Technologies used**: Python, XGBoost, Pandas, NumPy, Scikit-learn
-- **Key features**: House price prediction, feature selection, model comparison
+- **Model Type**: Regression (XGBoost, TensorFlow-based MLP)
+- **Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation
+- **Key features**: 
+
+	•	Multiple Model Comparison: Implements both XGBoost and TensorFlow-based MLP models to benchmark and identify the best-performing approach for predicting house prices.
+
+	•	Comprehensive Hyperparameter Tuning: Uses RandomizedSearchCV for efficient exploration of hyperparameters, optimizing critical settings such as learning rate, maximum depth, and number of estimators for near-optimal model performance.
+
+	•	Robust Cross-Validation: Employs KFold cross-validation to ensure the model’s stability and generalizability, resulting in reliable performance across diverse datasets.
+
+	•	Model Evaluation and Metrics: Comprehensive evaluation using performance metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R² score to deliver a well-rounded model assessment.
+
+	•	Feature Importance Visualization: Visualizes feature importance to understand how individual attributes impact house price predictions, aiding in model transparency and interpretability.
+
+	•	End-to-End Machine Learning Pipeline: A fully integrated pipeline from data preprocessing to model evaluation and visualization, ensuring scalability, ease of use, and practical deployment.
+
+- **Project Highlights**: 
+
+	•	Real-World Applicability: Designed to solve practical house price prediction problems, offering a reliable solution for stakeholders in real estate, investment, and market analysis.
+
+	•	Problem-Solving Oriented: Focuses on overcoming common challenges such as feature selection, model selection, hyperparameter optimization, and ensuring robust generalization across data variations.
+
+	•	High Performance and Interpretability: Achieves strong performance metrics while maintaining transparency, making it suitable for decision-makers who require reliable predictions and an understanding of how the model works.
+
+	•	Scalable and Modular Architecture: Built with scalability in mind, allowing for future improvements such as additional feature engineering, model updates, or even incorporating more complex algorithms like deep learning.
+
+	•	Production-Ready: Well-structured and professionally documented codebase, suitable for deployment in production environments, ensuring ease of maintenance and enhancement.
+
 - **Status**: Completed
 
 ## ML API Deployment
