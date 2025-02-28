@@ -63,7 +63,9 @@ A regression model designed to predict Apple Inc. (AAPL) stock prices using hist
 - **Status**: Completed
 
 ### [BERT Text Classifier](https://github.com/erenaktuerk/bert-text-classifier)  
-A text classification project that leverages the power of BERT (Bidirectional Encoder Representations from Transformers) to classify text data into predefined categories. This project emphasizes advanced Natural Language Processing techniques, data preprocessing, model training, and evaluation using state-of-the-art transformer-based models for high performance.
+This project explores the power of BERT (Bidirectional Encoder Representations from Transformers), a cutting-edge NLP model developed by Google Research in 2018. Built on the transformer architecture, BERT’s bidirectional approach enables a deep contextual understanding of language.
+
+In this classification task, BERT is applied to analyze and categorize textual data — specifically user reviews — into predefined sentiment or topic-based classes. The project highlights advanced Natural Language Processing techniques, including thorough data preprocessing, model fine-tuning, and performance evaluation. By leveraging state-of-the-art transformer-based models, the goal is to achieve highly accurate and reliable classification results.
 
 - **Model Type**: Classification
 - **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
