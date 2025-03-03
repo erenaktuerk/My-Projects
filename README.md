@@ -98,7 +98,24 @@ A machine learning model designed to predict energy consumption based on tempora
 
 - **Model Type**: Regression
 - **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
-- **Key features**: Energy consumption prediction, feature engineering, cross-validation
+- **Key features**: 
+
+	•	Advanced Feature Engineering: Transformed and enriched data with economic and demographic indicators.
+
+	•	Model Benchmarking: Compared XGBoost and TensorFlow-based MLP to identify the best-performing model.
+
+	•	Hyperparameter Tuning: Applied RandomizedSearchCV for efficient optimization of key model parameters.
+
+	•	Robust Cross-Validation: Used KFold cross-validation to ensure model stability and generalization
+
+	•	End-to-End Pipeline: Covered data preprocessing, model training, and evaluation for seamless deployment.
+- **Project Highlights**: 
+
+	•	Real-World Focus: Tackles practical energy consumption prediction challenges with reliable performance.
+
+	•	Problem-Solving Oriented: Uses sophisticated data manipulation and feature engineering for better model accuracy.
+
+	•	High Performance & Scalability: Balances strong metrics with a flexible, production-ready architecture.
 - **Status**: Completed
 
 ### [House Price Prediction](https://github.com/erenaktuerk/house-price-prediction)  
