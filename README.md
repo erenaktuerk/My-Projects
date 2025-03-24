@@ -321,20 +321,25 @@ A simple RESTful API for managing a to-do list, with CRUD operations for adding,
 	•	Efficient Data Persistence: Utilizes SQLite for lightweight data storage, coupled with thorough error handling and validation to ensure data integrity.
 
 - **Status**: Completed
-- 
+
+
 ## Web Development - My Projects @RacineDeux
 The following only lists projects that I worked on alone as part of my employment. These are reuploads because I worked with a work account as part of my employment. I do not upload group work, which made up the majority of the employment, to my private profile. 
 
 ### [Kristall Restaurant - web page](https://github.com/erenaktuerk/kristallweb)
+Kristall Web is a modern, responsive web application designed specifically for Restaurant Kristall. The project aims to deliver an engaging and intuitive online experience, offering visitors a comprehensive view of the restaurant’s offerings—from the menu and reservation system to contact information—through a visually appealing and user-friendly interface.
 
 ### [Cayan Meisterbetrieb - web page](https://github.com/erenaktuerk/cayanmeisterbetrieb)
+Cayan Meisterbetrieb is a professional web application designed for a car workshop, providing a comprehensive and user-friendly online presence. The website showcases the workshop’s services, company history, and contact information in a modern, responsive design. This README provides an in-depth analysis of the project, covering its features, technologies used, setup instructions, and guidelines for customization and contribution.
 
 ### [Net Immobilien - web page](https://github.com/erenaktuerk/netimmobilien)
+NetImmobilien is a modern web application designed for a real estate agency. It provides a comprehensive platform where users can browse property listings, view detailed real estate information, and contact agents directly. The project combines an elegant design with robust functionality to create an engaging online presence for the agency.
 
 ### [Tiggolino - web page](https://github.com/erenaktuerk/tiggolino)
+This repository contains the source code for the *Tiggolino Children's Playground* website. The project is developed using the *Django* web framework and serves as the online presence for the Tiggolino children's recreational park.
 
 ### [Tumuratas - web page](https://github.com/erenaktuerk/Tumuratas)
-
+This repository contains the web project for *Tumuratas Group, built using the **Django* web framework.
 
 ## Web Development - Early steps
 
