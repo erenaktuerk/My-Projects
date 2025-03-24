@@ -35,7 +35,9 @@ A cloud-based image classification project using deep learning. This system util
 A deep learning-based image classification project leveraging a Convolutional Neural Network (CNN). This solution integrates hyperparameter optimization, data augmentation, and model interpretability to enhance performance and generalization. Designed for both research and real-world deployment, the project achieves high accuracy on CIFAR-10.
 
 **Model Type**: Classification
+
 **Technologies Used**: Frameworks & Libraries: Python, TensorFlow, Keras, Keras Tuner, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 **Key Features**
 
 	•	Optimized CNN Architecture: Incorporates Batch Normalization and Dropout layers to minimize overfitting and enhance feature extraction.
@@ -58,6 +60,7 @@ A deep learning-based image classification project leveraging a Convolutional Ne
 A machine learning-based regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data and temporal features. The project focuses on feature engineering, data preprocessing, and hyperparameter optimization to enhance predictive accuracy. Both XGBoost and a TensorFlow-based MLP are evaluated to determine the best-performing model.
 
 **Model Type**: Regression
+
 **Technologies Used**: Frameworks & Libraries: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 
 **Key Features**
@@ -82,6 +85,7 @@ A machine learning-based regression model designed to predict Apple Inc. (AAPL) 
 This project applies BERT (Bidirectional Encoder Representations from Transformers) for text classification, specifically focusing on categorizing user reviews into sentiment or topic-based classes. Using BERT’s bidirectional approach for deep contextual understanding, the project integrates advanced NLP techniques, including data preprocessing, model fine-tuning, and performance evaluation. The model is optimized for TPU hardware for faster training and superior performance.
 
 **Model Type**: CLassification
+
 **Technologies Used**: Frameworks & Libraries: Python, BERT, HuggingFace, PyTorch, Scikit-learn
 
 **Key Features**
@@ -188,21 +192,27 @@ An exploratory analysis of the Titanic dataset to gain insights into the data an
 this section introduces foundational machine learning concepts, TensorFlow basics, data preprocessing, and neural network implementation for regression and classification tasks.
 
 - **Technologies used**: Python, TensorFlow
+- 
 - **Key features**: TensorFlow basics, neural networks, model training
+- 
 - **Status**: Completed
 
 ### [Neural-Network-Classification-in-TensorFlow](https://github.com/erenaktuerk/Neural-Network-Classification-in-TensorFlow)  
 This section explores neural network classification in TensorFlow, covering binary/multiclass models, imbalanced data strategies, key evaluation metrics, and deployment via TensorFlow Serving/TFLite.
 
 - **Technologies used**: Python, TensorFlow
+- 
 - **Key features**: Convolutional neural networks (CNNs), recurrent neural networks (RNNs), model evaluation
+- 
 - **Status**: Completed
 - 
 ### [Computer-Vision-and-Convolutional-Neural-Networks-CNNs](https://github.com/erenaktuerk/Computer-Vision-and-Convolutional-Neural-Networks-CNNs-)
 this section introduces Convolutional Neural Networks (CNNs) and computer vision essentials—covering convolution, pooling, TensorFlow/Keras implementation, transfer learning, and data augmentation for image classification (e.g., MNIST, CIFAR-10).
 
 - **Technologies used**: Python, TensorFlow
+- 
 - **Key features**: Convolutional neural networks (CNNs), recurrent neural networks (RNNs), model evaluation
+- 
 - **Status**: Completed
 
 ## Python: Restful API
