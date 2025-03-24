@@ -104,7 +104,7 @@ This project applies BERT (Bidirectional Encoder Representations from Transforme
  
 	•	Evaluation Metrics: Uses confusion matrices and performance plots to visualize and evaluate model effectiveness.
 
-- **Status**: Completed
+**Status**: Completed
 
 ### [Energy Predict](https://github.com/erenaktuerk/energy-predict)  
 This machine learning project focuses on predicting energy consumption based on temporal factors such as time of day and temperature. The goal is to optimize energy management by accurately forecasting energy demand, making it more efficient and adaptable to real-world scenarios.
