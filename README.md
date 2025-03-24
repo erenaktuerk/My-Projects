@@ -5,250 +5,149 @@ Collection and categorization of my projects
 ## Machine Learning Projects
 
 ### [GCP-Image-Classifier](https://github.com/erenaktuerk/gcp-image-classifier)
-The GCP Image Classifier is a sophisticated machine learning project that implements an advanced image classification pipeline using deep learning techniques. The model is built upon a Convolutional Neural Network (CNN) architecture designed for high performance and scalability. This project leverages Google Cloud Platform (GCP) to handle large-scale data processing, model training, and deployment, ensuring that it meets the demands of real-world applications in image classification. Key features include cloud integration, data storage on Google Cloud Storage (GCS), and training on Google AI Platform.
+A cloud-based image classification project using deep learning. This system utilizes a Convolutional Neural Network (CNN) for high-performance image recognition and is deployed on Google Cloud Platform (GCP) for scalability. The model is trained on Google AI Platform, with data stored in Google Cloud Storage (GCS), ensuring efficient and reliable cloud-based operations.
 
-**Key Technologies and Tools**:
+**Technologies Used**
+	•	Frameworks & Libraries: Python, TensorFlow, Keras, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+	•	Cloud Services: Google Cloud Storage (GCS), Google AI Platform (Vertex AI), Google Compute Engine, Google Cloud SDK
+	•	Additional Tools: Keras Tuner for hyperparameter optimization, Grad-CAM for model interpretability
 
-	•	Model Type: Convolutional Neural Network (CNN)
+**Key Features**
+
+	•	Cloud-Based Model Training: Utilizes Google AI Platform to train deep learning models efficiently with scalable cloud infrastructure.
  
-	•	Frameworks & Libraries: Python, TensorFlow, Keras, Google Cloud SDK, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+	•	Automated Data Processing: Image preprocessing and augmentation are handled dynamically using OpenCV and TensorFlow Image Preprocessing.
  
-	•	Cloud Services: Google Cloud Storage (GCS), Google AI Platform, Google Compute Engine, Google Cloud SDK
+	•	Interpretable AI: Implements Grad-CAM to visualize which image features influence predictions.
+
+**Project Highlights**
+
+	•	Seamless Google Cloud Integration: The pipeline is fully optimized for GCP, from data storage to model training and deployment.
  
-	•	Data Augmentation & Preprocessing: OpenCV, TensorFlow Image Preprocessing
+	•	Optimized Deep Learning Architecture: Uses Batch Normalization, Dropout, and data augmentation to improve generalization and prevent overfitting.
  
-	•	Model Deployment: Google AI Platform (Vertex AI), GCP-based deployment pipeline
+	•	Scalable Deployment: Deployed on Vertex AI, allowing real-time inference and easy scalability for production environments.
 
-**Key Features and Advantages**:
-
-	•	Optimized CNN Architecture:
-The network architecture is designed to extract deep features with minimal overfitting, utilizing advanced layers like Batch Normalization and Dropout. The model efficiently handles complex image data while ensuring optimal performance.
-
-	•	Google Cloud Integration:
-This project harnesses the full power of Google Cloud Platform for cloud-based training and data storage. Large image datasets are stored securely on Google Cloud Storage (GCS), and training is conducted on scalable infrastructure through Google AI Platform.
-
-	•	Efficient Hyperparameter Tuning:
-Utilizing Keras Tuner, the model’s hyperparameters are dynamically optimized to achieve maximum performance, ensuring the best possible accuracy and generalization.
-
-	•	Data Augmentation and Preprocessing:
-The model incorporates real-time data augmentation using techniques such as rotation, flipping, and zooming, which boosts the model’s ability to generalize across unseen data. This step is critical for real-world deployment where data variability is high.
-
-	•	Model Interpretability with Grad-CAM:
-By integrating Grad-CAM (Gradient-weighted Class Activation Mapping), the model’s decision-making process is made interpretable, allowing for visual understanding of which image features influenced the final prediction.
-
-	•	Modular Pipeline:
-The project features a flexible, end-to-end pipeline suitable for both research and production environments. From data preprocessing to model training and deployment on GCP, every step can be customized and extended.
-
-	•	Scalable Cloud Deployment:
-The model is designed for scalable cloud deployment. Once trained, it can be deployed using Google AI Platform, ensuring a robust and easily scalable model ready for integration into any application.
-
-**Project Highlights**:
-
-	•	Real-World Application Focus:
-The GCP Image Classifier is not just a research model but a practical, scalable solution for image classification tasks. It is designed to perform effectively in real-world environments, handling large datasets and complex image processing tasks efficiently.
-
-	•	High Performance and Accuracy:
-The project achieves competitive accuracy on standard benchmarks like CIFAR-10, with the flexibility to adapt to custom datasets. Its architecture addresses common issues such as overfitting and hyperparameter optimization.
-
-	•	Seamless Integration with Google Cloud:
-By using Google Cloud Storage for dataset management and AI Platform for model training, this project can be easily scaled and deployed in the cloud, enabling powerful, large-scale AI applications without worrying about local hardware limitations.
-
-	•	End-to-End Solution:
-From data collection and preprocessing on GCP to model training, evaluation, and deployment on Google AI Platform, the solution is fully integrated with Google Cloud services, ensuring efficient resource management and optimal performance throughout the entire lifecycle.
-
-	•	Cloud-Based Model Evaluation:
-By leveraging Google Cloud’s powerful compute resources, the project ensures fast model training and evaluation. The integration with cloud-based services allows for efficient management of computational power, cutting-edge GPUs, and access to vast amounts of data without local infrastructure concerns.
-
-**Key Benefits of Using Google Cloud**:
-
-	•	Data Storage on Google Cloud Storage (GCS):
-Large-scale image datasets are securely stored and easily accessed through Google Cloud Storage, making data management simple and efficient.
-
-	•	Scalable Model Training on AI Platform:
-The AI Platform provides a scalable infrastructure for training the model on high-performance compute engines, significantly reducing training time and enabling more complex models to be built efficiently.
-
-	•	Cloud Deployment with Vertex AI:
-The model can be deployed and served on Vertex AI, enabling real-time inference in production environments. Google’s managed services handle scaling, monitoring, and versioning, ensuring a seamless deployment pipeline.
-
-Problem-Solving Approach:
-
-	•	Addressing Overfitting:
-By using Batch Normalization, Dropout, and real-time data augmentation, the model is designed to reduce overfitting and improve its ability to generalize on unseen data.
-
-	•	Hyperparameter Optimization:
-With the help of Keras Tuner, this project dynamically optimizes model hyperparameters to find the best configuration, ensuring that the model performs optimally on different datasets.
-
-	•	Model Transparency:
-The integration of Grad-CAM provides transparency by explaining the model’s decisions. This feature makes the model interpretable, which is essential for real-world applications where trust and reliability are critical.
-
-Technologies in Detail:
-
-	•	Google Cloud SDK:
-The Google Cloud SDK is used for interacting with Google Cloud services from the command line, enabling smooth deployment and management of resources.
-
-	•	TensorFlow and Keras:
-These frameworks power the model’s deep learning architecture, providing a flexible and robust solution for creating and training deep neural networks.
-
-	•	Keras Tuner:
-For hyperparameter optimization, Keras Tuner ensures that the model’s hyperparameters are automatically adjusted to achieve optimal performance.
-
-	•	Matplotlib and Seaborn for Data Visualization:
-These libraries are used for generating insightful visualizations to evaluate the model’s performance and to explore data patterns.
-
-Deployment and Future Work:
-
-	•	Scalable Deployment:
-The model is designed to be easily deployable on Google Cloud through Vertex AI, allowing the solution to scale with increasing data and model complexity.
-
-	•	Future Enhancements:
-Future improvements could include the integration of additional machine learning models, more advanced augmentation techniques, and support for multi-class and multi-label classification tasks.
-
-**Status**:
-
-Completed
+**Status**: In Progress
 
 ### [CNN CIFAR-10 Image Classifier](https://github.com/erenaktuerk/cnn-cifar10-classifier)
-A professionally designed image classification solution using an advanced Convolutional Neural Network (CNN) architecture. This project incorporates a robust deep learning pipeline with hyperparameter optimization, data augmentation, and model interpretability, focusing on real-world applications and deployment.
-- **Model Type**: Convolutional Neural Network (CNN)
-- **Technologies Used**: Python, TensorFlow, Keras, Keras Tuner, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Key Features**:
-  
-	•	Optimized CNN Architecture: Deep feature extraction with minimal overfitting, using Batch Normalization and Dropout layers.
 
-	•	Efficient Hyperparameter Tuning: Leverages Keras Tuner for optimizing key parameters to maximize model performance.
+A deep learning-based image classification project leveraging a Convolutional Neural Network (CNN). This solution integrates hyperparameter optimization, data augmentation, and model interpretability to enhance performance and generalization. Designed for both research and real-world deployment, the project achieves high accuracy on CIFAR-10.
 
-	•	Data Augmentation: Enhances model generalization through real-time augmentation techniques.
+**Model Type**: Classification
+**Technologies Used**: Frameworks & Libraries: Python, TensorFlow, Keras, Keras Tuner, OpenCV, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+**Key Features**
 
-	•	Model Interpretability: Utilizes feature map visualizations and Grad-CAM to explain model decisions.
+	•	Optimized CNN Architecture: Incorporates Batch Normalization and Dropout layers to minimize overfitting and enhance feature extraction.
+ 
+	•	Hyperparameter Optimization: Uses Keras Tuner to automatically optimize key parameters for improved model accuracy.
+ 
+	•	Model Interpretability: Implements Grad-CAM and feature map visualizations to explain decision-making.
 
-	•	Modular Pipeline: A flexible, end-to-end pipeline suitable for both research and production environments.
+**Project Highlights**
 
-- **Project Highlights**:
-
-	•	Real-World Applications: Focused on reliability and performance in practical settings.
-
-	•	Problem-Solving Oriented: Addresses common deep learning issues such as overfitting, hyperparameter selection, and model transparency, making it a comprehensive solution for complex computer vision tasks.
-
-	•	Problem-Solving Approach: Addresses challenges like overfitting and hyperparameter selection.
-
-	•	High Performance: Achieves competitive accuracy on CIFAR-10 with thorough evaluation.
-
-	•	Scalable Architecture: Designed to easily integrate enhancements and future improvements.
-- **Status**: Completed
+	•	Real-World Applications: Designed for practical scenarios, ensuring reliability and high performance.
+ 
+	•	Problem-Solving Focus: Effectively addresses challenges like overfitting, hyperparameter selection, and model transparency.
+ 
+	•	Scalable Architecture: Built with flexibility in mind, allowing easy integration of enhancements and future improvements.
+ 
+**Status**: Completed
 
 ### [AAPL Share Prediction](https://github.com/erenaktuerk/aapl-share-prediction)  
-A regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data, temporal features (such as time of day, previous closing prices), and advanced machine learning techniques. The project emphasizes data preprocessing, feature engineering, and hyperparameter optimization to achieve high accuracy.
+A machine learning-based regression model designed to predict Apple Inc. (AAPL) stock prices using historical market data and temporal features. The project focuses on feature engineering, data preprocessing, and hyperparameter optimization to enhance predictive accuracy. Both XGBoost and a TensorFlow-based MLP are evaluated to determine the best-performing model.
 
-- **Model Type**: Regression
-- **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
-- **Key features**:
+**Model Type**: Regression
+**Technologies Used**: Frameworks & Libraries: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 
-	•	Advanced Data Preprocessing: Thorough cleaning and feature selection to ensure high-quality input data.
+**Key Features**
 
-	•	Feature Engineering: Derivation of temporal features to capture market trends and stock patterns.
+	•	Advanced Data Preprocessing: Cleans and selects key features to improve prediction quality.
+ 
+	•	Feature Engineering: Extracts temporal trends to capture market fluctuations.
+ 
+	•	Hyperparameter Optimization: Utilizes RandomizedSearchCV to fine-tune models for maximum accuracy.
 
-	•	Hyperparameter Optimization: Extensive use of RandomizedSearchCV for model tuning, maximizing predictive accuracy.
+**Project Highlights**
 
-	•	Model Comparison: Evaluation of both XGBoost and TensorFlow-based MLP to determine the best-performing model.
-
-	•	Cross-Validation: Comprehensive validation with optimized folds to avoid overfitting and ensure robustness.
-
-- **Project Highlights**:
-
-	•	Problem: Predicting future AAPL stock prices based on historical data to support investment decisions.
-
-	•	Methodology: The project incorporates XGBoost and a TensorFlow-based MLP to assess which model best fits the prediction task. Hyperparameter optimization and data preprocessing techniques are crucial in obtaining high accuracy.
-
-	•	Results & Evaluation: The model performance is evaluated using key metrics like RMSE, MAE, and visualized via relevant plots (e.g., loss curves, performance plots). Cross-validation results further validate model robustness.
-
-	•	Lessons Learned: The project emphasizes the importance of data quality, feature selection, and hyperparameter optimization. Future iterations could focus on expanding the feature set or using more advanced ensemble methods.
-
-- **Status**: Completed
+	•	Problem-Solving Approach: Predicts future AAPL stock prices to aid investment decisions.
+ 
+	•	Model Evaluation: Compares XGBoost vs. TensorFlow MLP, using RMSE and MAE for performance assessment.
+ 
+	•	Robust Validation: Employs cross-validation to prevent overfitting and ensure reliability.
+ 
+**Status**: Completed
 
 ### [BERT Text Classifier](https://github.com/erenaktuerk/bert-text-classifier)  
-This project explores the power of BERT (Bidirectional Encoder Representations from Transformers), a cutting-edge NLP model developed by Google Research in 2018. Built on the transformer architecture, BERT’s bidirectional approach enables a deep contextual understanding of language.
+This project applies BERT (Bidirectional Encoder Representations from Transformers) for text classification, specifically focusing on categorizing user reviews into sentiment or topic-based classes. Using BERT’s bidirectional approach for deep contextual understanding, the project integrates advanced NLP techniques, including data preprocessing, model fine-tuning, and performance evaluation. The model is optimized for TPU hardware for faster training and superior performance.
 
-In this classification task, BERT is applied to analyze and categorize textual data — specifically user reviews — into predefined sentiment or topic-based classes. The project highlights advanced Natural Language Processing techniques, including thorough data preprocessing, model fine-tuning, and performance evaluation. By leveraging state-of-the-art transformer-based models, the goal is to achieve highly accurate and reliable classification results.
+**Model Type**: CLassification
+**Technologies Used**: Frameworks & Libraries: Python, BERT, HuggingFace, PyTorch, Scikit-learn
 
-- **Model Type**: Classification
-- **Technologies used**: Python, BERT, HuggingFace, PyTorch, Scikit-learn
-- **Key features**:
+**Key Features**
 
-	•	Text Preprocessing: Cleans and tokenizes raw text data using state-of-the-art methods.
-
-	•	BERT Model Training: Fine-tunes a pre-trained BERT model for text classification tasks.
-
-	•	Evaluation: Computes classification metrics such as accuracy, precision, recall, and F1-score on validation data.
-
-	•	Visualization: Generates performance plots and confusion matrices to assess model performance.
-
-	•	TPU Support: Optimized for training on TPU hardware for faster model training.
-
-**Project Highlights**:
-
-	•	Problem: Developing a robust text classifier using BERT to categorize raw text data into predefined labels. This solution can be used in real-world applications such as sentiment analysis, spam detection, or topic classification.
+	•	Text Preprocessing: Implements cutting-edge methods for cleaning and tokenizing text data.
  
-	•	Methodology: The project utilizes a pre-trained BERT model, fine-tuned with custom data. Various preprocessing steps, including text cleaning, tokenization, and padding, ensure the input data is suitable for BERT. Hyperparameters are optimized, and the model is trained on TPU for improved performance.
+	•	BERT Model Training: Fine-tunes a pre-trained BERT model tailored for text classification.
  
-	•	Results & Evaluation: The classifier’s performance is evaluated using accuracy, precision, recall, F1-score, and confusion matrices. Key visualizations, including training/validation loss curves and confusion matrices, help assess the model’s effectiveness.
+	•	Evaluation: Assesses model performance using metrics like accuracy, precision, recall, and F1-score.
+
+**Project Highlights**
+
+	•	Problem-Solving Approach: Uses BERT for robust text classification in real-world applications, such as sentiment analysis or topic classification.
  
-	•	Lessons Learned: This project highlights the power of pre-trained transformer models and the importance of fine-tuning them for specific tasks. Future improvements could include experimenting with other transformer models or adding more layers to the neural network.
+	•	Model Optimization: Incorporates TPU hardware to speed up training, improving model efficiency.
+ 
+	•	Evaluation Metrics: Uses confusion matrices and performance plots to visualize and evaluate model effectiveness.
 
 - **Status**: Completed
 
 ### [Energy Predict](https://github.com/erenaktuerk/energy-predict)  
-A machine learning model designed to predict energy consumption based on temporal factors, such as time of day and temperature. This project emphasizes efficient energy management.
+This machine learning project focuses on predicting energy consumption based on temporal factors such as time of day and temperature. The goal is to optimize energy management by accurately forecasting energy demand, making it more efficient and adaptable to real-world scenarios.
 
-- **Model Type**: Regression
-- **Technologies used**: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
-- **Key features**: 
+**Model Type**: Regression
+**Technologies Used**: Frameworks & Libraries: Python, XGBoost, TensorFlow, Pandas, NumPy, Scikit-learn
 
-	•	Advanced Feature Engineering: Transformed and enriched data with economic and demographic indicators.
+**Key Features**
 
-	•	Model Benchmarking: Compared XGBoost and TensorFlow-based MLP to identify the best-performing model.
+	•	Advanced Feature Engineering: Utilizes economic and demographic indicators to enhance data for better prediction accuracy.
+ 
+	•	Model Benchmarking: Compares XGBoost and TensorFlow-based MLP to select the best model based on performance.
+ 
+	•	Hyperparameter Tuning: Implements RandomizedSearchCV for efficient model parameter optimization.
 
-	•	Hyperparameter Tuning: Applied RandomizedSearchCV for efficient optimization of key model parameters.
+**Project Highlights**
 
-	•	Robust Cross-Validation: Used KFold cross-validation to ensure model stability and generalization
-
-	•	End-to-End Pipeline: Covered data preprocessing, model training, and evaluation for seamless deployment.
-- **Project Highlights**: 
-
-	•	Real-World Focus: Tackles practical energy consumption prediction challenges with reliable performance.
-
-	•	Problem-Solving Oriented: Uses sophisticated data manipulation and feature engineering for better model accuracy.
-
-	•	High Performance & Scalability: Balances strong metrics with a flexible, production-ready architecture.
-- **Status**: Completed
+	•	Real-World Focus: Aims to solve practical energy consumption prediction challenges with reliable results.
+ 
+	•	Problem-Solving Approach: Applies sophisticated data manipulation and feature engineering techniques for enhanced model performance.
+ 
+	•	High Performance & Scalability: Ensures a robust, flexible, and scalable architecture for production-level deployment.
+ 
+**Status**: Completed
 
 ### [House Price Prediction](https://github.com/erenaktuerk/house-price-prediction)  
-A practical and performance-driven machine learning project for house price prediction, using features like location, square footage, and condition. By combining advanced model selection, hyperparameter tuning, and cross-validation, it delivers accurate and interpretable results, following industry best practices.
+A practical machine learning project that predicts house prices based on factors like location, size, and condition. It uses model selection, hyperparameter tuning, and cross-validation to provide accurate, interpretable results.
+**Model Type**: Regression
+**Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation
 
-- **Model Type**: Regression (XGBoost, TensorFlow-based MLP)
-- **Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation
-- **Key features**: 
+**Key features**:
 
-	•	Model Benchmarking: Compares XGBoost and TensorFlow-based MLP to select the best-performing approach.
+	•	Model benchmarking with XGBoost and TensorFlow-based MLP.
+ 
+	•	Hyperparameter tuning using RandomizedSearchCV and cross-validation.
+ 
+	•	Comprehensive evaluation with RMSE, MAE, MSE, R², and feature importance visualization.
 
-	•	Hyperparameter Tuning: Uses RandomizedSearchCV to efficiently optimize key parameters.
+**Project Highlights**:
 
-	•	Robust Cross-Validation: KFold cross-validation ensures stability and generalization.
+	•	Solves practical house price prediction challenges with high accuracy.
+ 
+	•	Focuses on model optimization, feature selection, and generalization.
+ 
+	•	Balances high performance with interpretability and scalability.
+ 
 
-	•	Comprehensive Evaluation: Assesses performance with RMSE, MAE, MSE, and R² scores.
-
-	•	Feature Importance: Visualizes key factors influencing price predictions for better interpretability.
-
-	•	End-to-End Pipeline: Covers data preprocessing, model training, and evaluation for seamless deployment.
-
-- **Project Highlights**: 
-
-	•	Real-World Focus: Solves practical house price prediction challenges with reliable performance.
-
-	•	Problem-Solving Oriented: Addresses feature selection, model optimization, and generalization.
-
-	•	High Performance & Transparency: Balances strong metrics with interpretability.
-
-	•	Scalable Design: Easily adaptable for future improvements and feature expansion.
 - **Status**: Completed
 
 ## ML API Deployment
