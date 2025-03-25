@@ -13,13 +13,13 @@ Overview:
 - [Credit Risk API](#Credit-Risk-API) (Completed)
 - [Titanic Exploratory Data Analysis](#Titanic-Epxloratory-Data-Analysis) (Completed)
 
+**Python: Restful API**
+- [To-Do API](#To-Do_API) (Completed)
+
 **TensorFlow Learning Units**
 - [Foundations-of-Machine-Learning-with-TensorFlow](#Foundations-of-Machine-Learning-with-TensorFlow)
 - [Neural-Network-Classification-in-TensorFlow](#Neural-Network-Classification-in-TensorFlow)
 - [Computer-Vision-and-Convolutional-Neural-Networks-CNNs](#Computer-Vision-and-Convolutional-Neural-Networks-CNNs)
-
-**Python: Restful API**
-- [To-Do API](#To-Do_API) (Completed)
 
 **Web Development - My Projects @RacineDeux**
 - [Kristall Restaurant - web page](#Kristall-Restaurant-web-page)
