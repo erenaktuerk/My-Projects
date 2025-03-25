@@ -232,18 +232,22 @@ this section introduces foundational machine learning concepts, TensorFlow basic
 This section explores neural network classification in TensorFlow, covering binary/multiclass models, imbalanced data strategies, key evaluation metrics, and deployment via TensorFlow Serving/TFLite.
 
 - **Technologies used**: Python, TensorFlow
-- 
+
+
 - **Key features**: Convolutional neural networks (CNNs), recurrent neural networks (RNNs), model evaluation
-- 
+
+
 - **Status**: Completed
-- 
+
 ### [Computer-Vision-and-Convolutional-Neural-Networks-CNNs](https://github.com/erenaktuerk/Computer-Vision-and-Convolutional-Neural-Networks-CNNs-)
 this section introduces Convolutional Neural Networks (CNNs) and computer vision essentials—covering convolution, pooling, TensorFlow/Keras implementation, transfer learning, and data augmentation for image classification (e.g., MNIST, CIFAR-10).
 
 - **Technologies used**: Python, TensorFlow
-- 
+
+
 - **Key features**: Convolutional neural networks (CNNs), recurrent neural networks (RNNs), model evaluation
-- 
+
+
 - **Status**: Completed
 
 ## Python: Restful API
