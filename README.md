@@ -2,6 +2,8 @@
 
 Collection and categorization of my projects
 
+- [Energy Predict](#Energy-Predict)
+
 ## Machine Learning Projects
 
 ### [GCP-Image-Classifier](https://github.com/erenaktuerk/gcp-image-classifier)
