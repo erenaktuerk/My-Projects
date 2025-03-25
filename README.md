@@ -7,8 +7,8 @@ Collection and categorization of my projects
 **Machine Learning Projects**
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
-- [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
+- [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
 - [Energy Predict](#Energy-Predict) (Completed)
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
