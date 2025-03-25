@@ -9,9 +9,9 @@ Overview:
 - [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
 - [Energy Predict](#Energy-Predict) (Completed)
-- [House Price Prediction](#House-Price-Prediction)
-- [Credit Risk API](#Credit-Risk-API)
-- [Titanic Exploratory Data Analysis](#Titanic-Epxloratory-Data-Analysis)
+- [House Price Prediction](#House-Price-Prediction) (Completed)
+- [Credit Risk API](#Credit-Risk-API) (Completed)
+- [Titanic Exploratory Data Analysis](#Titanic-Epxloratory-Data-Analysis) (Completed)
 
 # TensorFlow Learning Units
 - [Foundations-of-Machine-Learning-with-TensorFlow](#Foundations-of-Machine-Learning-with-TensorFlow)
@@ -19,7 +19,7 @@ Overview:
 - [Computer-Vision-and-Convolutional-Neural-Networks-CNNs](#Computer-Vision-and-Convolutional-Neural-Networks-CNNs)
 
 # Python: Restful API
-- [To-Do API](#To-Do API)
+- [To-Do API](#To-Do API) (Completed)
 
 # Web Development - My Projects @RacineDeux
 - [Kristall Restaurant - web page](#Kristall-Restaurant-web-page)
