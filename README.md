@@ -11,7 +11,11 @@ Overview:
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
 - [Energy Predict](#Energy-Predict) (Completed)
 - [House Price Prediction](#House-Price-Prediction) (Completed)
+
+**ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
+
+**Python: Exploratory Statistics for Machine Learning**
 - [Titanic Exploratory Data Analysis](#Titanic-Epxloratory-Data-Analysis) (Completed)
 
 **Python: Restful API**
