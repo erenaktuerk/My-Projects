@@ -3,6 +3,7 @@
 Collection and categorization of my projects
 
 Overview:
+
 **Machine Learning Projects**
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
