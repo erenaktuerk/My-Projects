@@ -2,7 +2,31 @@
 
 Collection and categorization of my projects
 
-- [Energy Predict](#Energy-Predict)
+Overview:
+# Machine Learning Projects
+- [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
+- [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
+- [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
+- [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
+- [Energy Predict](#Energy-Predict) (Completed)
+- [House Price Prediction](#House-Price-Prediction)
+- [Credit Risk API](#Credit-Risk-API)
+- [Titanic Exploratory Data Analysis](#Titanic-Epxloratory-Data-Analysis)
+
+# TensorFlow Learning Units
+- [Foundations-of-Machine-Learning-with-TensorFlow](#Foundations-of-Machine-Learning-with-TensorFlow)
+- [Neural-Network-Classification-in-TensorFlow](#Neural-Network-Classification-in-TensorFlow)
+- [Computer-Vision-and-Convolutional-Neural-Networks-CNNs](#Computer-Vision-and-Convolutional-Neural-Networks-CNNs)
+
+# Python: Restful API
+- [To-Do API](#To-Do API)
+
+# Web Development - My Projects @RacineDeux
+- [Kristall Restaurant - web page](#Kristall-Restaurant-web-page)
+- [Cayan Meisterbetrieb - web page](#Cayan-Meisterbetrieb-web-page)
+- [Net Immobilien - web page](#Net-Immobilien-web-page)
+- [Tiggolino - web page](#Tiggolino-web-page)
+- [Tumuratas - web page](#Tumuratas-web-page)
 
 ## Machine Learning Projects
 
