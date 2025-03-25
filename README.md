@@ -2,7 +2,7 @@
 
 Collection and categorization of my projects
 
-Overview:
+## Overview:
 
 **Machine Learning Projects**
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
