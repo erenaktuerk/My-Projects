@@ -44,13 +44,19 @@ An unsupervised learning-based customer clustering project using KMeans, focused
 **Technologies Used**: Frameworks & Libraries: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 **Key Features**
+
 	•	KMeans Clustering: Applies KMeans to segment customers based on purchasing behavior.
+ 
 	•	Cluster Profiling: Calculates average values for each cluster to understand customer segments.
+ 
 	•	Evaluation Metrics: Uses Silhouette Score to assess clustering performance.
 
 **Project Highlights**
+
 	•	Business Insights: Helps businesses tailor marketing efforts by identifying distinct customer segments.
+ 
 	•	Practical Deployment: Designed to work with real-world retail datasets, ensuring ease of use for business applications.
+ 
 	•	Scalable Pipeline: Modular structure that allows for easy extension with additional features or alternative clustering algorithms.
 
 **Status**: Completed
