@@ -5,6 +5,7 @@ Collection and categorization of my projects
 ## Overview:
 
 **Machine Learning Projects**
+- [Online Retail Customer Clustering](#Online-Retail-Customer-Clustering) (in Progress)
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
@@ -34,6 +35,25 @@ Collection and categorization of my projects
 - [Tumuratas - web page](#Tumuratas-web-page)
 
 ## Machine Learning Projects
+
+### [Online Retail Customer Clustering](https://github.com/erenaktuerk/online-retail-customer-clustering)
+An unsupervised learning-based customer clustering project using KMeans, focused on segmenting retail customers to improve targeted marketing and sales strategies. This solution incorporates data preprocessing, clustering evaluation, and visualization to extract meaningful insights from transactional data. Designed for practical use in real-world business scenarios, the project enables efficient customer segmentation.
+
+**Model Type**: Clustering
+
+**Technologies Used**: Frameworks & Libraries: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+**Key Features**
+	•	KMeans Clustering: Applies KMeans to segment customers based on purchasing behavior.
+	•	Cluster Profiling: Calculates average values for each cluster to understand customer segments.
+	•	Evaluation Metrics: Uses Silhouette Score to assess clustering performance.
+
+**Project Highlights**
+	•	Business Insights: Helps businesses tailor marketing efforts by identifying distinct customer segments.
+	•	Practical Deployment: Designed to work with real-world retail datasets, ensuring ease of use for business applications.
+	•	Scalable Pipeline: Modular structure that allows for easy extension with additional features or alternative clustering algorithms.
+
+**Status**: Completed
 
 ### [GCP-Image-Classifier](https://github.com/erenaktuerk/gcp-image-classifier)
 A cloud-based image classification project using deep learning. This system utilizes a Convolutional Neural Network (CNN) for high-performance image recognition and is deployed on Google Cloud Platform (GCP) for scalability. The model is trained on Google AI Platform, with data stored in Google Cloud Storage (GCS), ensuring efficient and reliable cloud-based operations.
