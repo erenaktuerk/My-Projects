@@ -59,7 +59,7 @@ An unsupervised learning-based customer clustering project using KMeans, focused
  
 	•	Scalable Pipeline: Modular structure that allows for easy extension with additional features or alternative clustering algorithms.
 
-**Status**: Completed
+**Status**: In Progress
 
 ### [GCP-Image-Classifier](https://github.com/erenaktuerk/gcp-image-classifier)
 A cloud-based image classification project using deep learning. This system utilizes a Convolutional Neural Network (CNN) for high-performance image recognition and is deployed on Google Cloud Platform (GCP) for scalability. The model is trained on Google AI Platform, with data stored in Google Cloud Storage (GCS), ensuring efficient and reliable cloud-based operations.
