@@ -220,6 +220,7 @@ A practical machine learning project that predicts house prices based on factors
 A practical MLOps project that predicts wine quality based on features like acidity, alcohol content, and residual sugar. It integrates model selection, hyperparameter tuning, and evaluation to provide reliable results and prepares the model for future deployment.
 
 **Model Type**: Classification
+
 **Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation, Docker, MLflow
 
 **Key features**:
