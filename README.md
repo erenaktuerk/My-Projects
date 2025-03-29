@@ -14,7 +14,7 @@ Collection and categorization of my projects
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
 **MLOps**
-- 
+- [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
 
 **ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
