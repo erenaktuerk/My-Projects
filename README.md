@@ -13,6 +13,9 @@ Collection and categorization of my projects
 - [Energy Predict](#Energy-Predict) (Completed)
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
+**MLOps**
+- 
+
 **ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
 
@@ -210,6 +213,32 @@ A practical machine learning project that predicts house prices based on factors
  
 
 - **Status**: Completed
+
+## MLOps
+
+### [Wine Quality Pipeline](https://github.com/erenaktuerk/wine-quality-pipeline)
+A practical MLOps project that predicts wine quality based on features like acidity, alcohol content, and residual sugar. It integrates model selection, hyperparameter tuning, and evaluation to provide reliable results and prepares the model for future deployment.
+
+**Model Type**: Classification
+**Technologies used**: Python, XGBoost, TensorFlow, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, RandomizedSearchCV, KFold Cross-Validation, Docker, MLflow
+
+**Key features**:
+
+	•	Model benchmarking with XGBoost and TensorFlow-based MLP.
+ 
+	•	Hyperparameter tuning using RandomizedSearchCV and cross-validation.
+ 
+	•	Comprehensive evaluation with RMSE, MAE, MSE, R², and model performance plots.
+
+**Project Highlights**:
+
+	•	High accuracy in wine quality prediction.
+ 
+	•	Focus on model optimization and evaluation.
+ 
+	•	MLOps integration with Docker and MLflow.
+
+**Status**: In Progress
 
 ## ML API Deployment
 
