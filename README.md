@@ -5,13 +5,21 @@ Collection and categorization of my projects
 ## Overview:
 
 **Machine Learning Projects**
+
+**CLustering Projects**
 - [Online Retail Customer Clustering](#Online-Retail-Customer-Clustering) (in Progress)
-- [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
-- [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
-- [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
+
+**Regression Projects**
 - [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
 - [Energy Predict](#Energy-Predict) (Completed)
 - [House Price Prediction](#House-Price-Prediction) (Completed)
+
+**CLassification Projects**
+- [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
+- [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
+- [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
+
+
 
 **MLOps**
 - [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
