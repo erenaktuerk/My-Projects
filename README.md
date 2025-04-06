@@ -14,8 +14,8 @@ Collection and categorization of my projects
 - [Energy Predict](#Energy-Predict) (Completed)
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
-*CLassification Projects*
-- [Urban Sound Classifier](#Urban-Sound-Classifier)
+*Classification Projects*
+- [Urban Sound Classifier](#Urban-Sound-Classifier) (In Progress)
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
