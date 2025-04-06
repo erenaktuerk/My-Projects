@@ -15,6 +15,7 @@ Collection and categorization of my projects
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
 *CLassification Projects*
+- [Urban Sound Classifier](#Urban-Sound-Classifier)
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
@@ -69,6 +70,31 @@ An unsupervised learning-based customer clustering project using KMeans, focused
 	•	Practical Deployment: Designed to work with real-world retail datasets, ensuring ease of use for business applications.
  
 	•	Scalable Pipeline: Modular structure that allows for easy extension with additional features or alternative clustering algorithms.
+
+**Status**: In Progress
+
+### [Urban Sound Classifier](https://github.com/erenaktuerk/urban-sound-classifier)
+A deep learning-based audio classification project utilizing TensorFlow and advanced feature extraction techniques. This solution integrates a flexible data preprocessing pipeline, hyperparameter tuning, and model evaluation to achieve high accuracy in various audio classification tasks. Designed for both research and real-world deployment, the project performs well on sound classification and speech recognition tasks.
+
+**Model Type**: CLassification
+
+**Technologies Used**: Frameworks & Libraries: Python, TensorFlow, Librosa, Pandas, NumPy, Matplotlib, Seaborn
+
+**Key Features**
+
+	•	Advanced Audio Preprocessing: Utilizes Mel-frequency cepstral coefficients (MFCCs) and other audio features to convert raw audio data into suitable input for deep learning models.
+ 
+	•	Deep Learning Models: Implements Convolutional Neural Networks (CNNs) for feature extraction and classification of audio data.
+ 
+	•	Hyperparameter Optimization: Leverages grid search and randomized search techniques to optimize model parameters for enhanced performance
+
+**Project Highlights**
+
+	•	Real-World Applications: Built for practical use cases, such as environmental sound classification, music genre classification, or speech recognition.
+ 
+	•	Problem-Solving Focus: Tackles challenges like audio feature extraction and training models on high-dimensional audio data
+ 
+	•	Scalable and Customizable: The project is structured to easily accommodate new audio datasets, classification tasks, or improvements in model architecture.
 
 **Status**: In Progress
 
