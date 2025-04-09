@@ -26,6 +26,8 @@ Collection and categorization of my projects
 **MLOps**
 - [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
 
+**Generative AI**
+- [GPT2 Textgen App](#GPT2-Textgen-App) (In Progress)
 
 **ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
@@ -251,7 +253,7 @@ A practical machine learning project that predicts house prices based on factors
 - **Status**: Completed
 
 ## Generative AI
-- [GPT2 Textgen App](https://github.com/erenaktuerk/gpt2-textgen-app)
+### [GPT2 Textgen App](https://github.com/erenaktuerk/gpt2-textgen-app)
 
 ## MLOps
 
