@@ -20,9 +20,6 @@ Collection and categorization of my projects
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
 
-**Generative AI**
-- 
-
 **MLOps**
 - [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
 
