@@ -20,10 +20,12 @@ Collection and categorization of my projects
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
 
-
+**Generative AI**
+- 
 
 **MLOps**
 - [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
+
 
 **ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
@@ -247,6 +249,9 @@ A practical machine learning project that predicts house prices based on factors
  
 
 - **Status**: Completed
+
+## Generative AI
+- [GPT2 Textgen App](https://github.com/erenaktuerk/gpt2-textgen-app)
 
 ## MLOps
 
