@@ -250,7 +250,31 @@ A practical machine learning project that predicts house prices based on factors
 - **Status**: Completed
 
 ## Generative AI
+
 ### [GPT2 Textgen App](https://github.com/erenaktuerk/gpt2-textgen-app)
+A deep learning-based natural language processing project utilizing GPT-2 for text generation. This solution leverages FastAPI for efficient deployment and offers a flexible, scalable architecture for real-time text generation. Designed to facilitate easy integration into various applications, the project provides high-quality generated text with customizable parameters.
+
+Model Type: Text Generation
+
+Technologies Used: Python, FastAPI, GPT-2, Hugging Face Transformers, TensorFlow, Docker, Uvicorn, GitHub Actions
+
+**Key features**:
+
+	•	Real-Time Text Generation: Uses GPT-2 for high-quality, contextually relevant text generation based on user input.
+ 
+	•	API-Driven Architecture: Deployed with FastAPI, providing efficient and scalable endpoints for text generation.
+ 
+	•	Customizable Parameters: Allows customization of model parameters such as temperature and max length for flexible output control.
+
+**Project Highlights**:
+
+	•	Practical Applications: Designed for both research and deployment in creative content generation, chatbots, and more.
+ 
+	•	Scalability & Flexibility: Easily extendable for future improvements, including integration with more powerful models and cloud platforms.
+ 
+	•	fficient Deployment: Optimized with FastAPI for fast, production-ready deployment in real-world scenarios.
+
+Status: Ongoing
 
 ## MLOps
 
