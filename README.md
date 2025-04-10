@@ -7,7 +7,7 @@ Collection and categorization of my projects
 **Machine Learning Projects**
 
 *Clustering Projects*
-- [Online Retail Customer Clustering](#Online-Retail-Customer-Clustering) (in Progress)
+- [Online Retail Customer Clustering](#Online-Retail-Customer-Clustering) (Completed)
 
 *Regression Projects*
 - [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
@@ -15,13 +15,13 @@ Collection and categorization of my projects
 - [House Price Prediction](#House-Price-Prediction) (Completed)
 
 *Classification Projects*
-- [Urban Sound Classifier](#Urban-Sound-Classifier) (In Progress)
+- [Urban Sound Classifier](#Urban-Sound-Classifier) (Completed)
 - [GCP-Image-CLassifier](#GCP-Image-Classifier) (in Progress)
 - [CNN CIFAR-10 Image Classifier](#CNN-CIFAR-10-IMAGE-CLASSIFIER) (Completed)
 - [BERT Text Classifier](#BERT-Text-CLassifier) (Completed)
 
 **MLOps**
-- [Wine Quality Pipeline](#Wine-Quality-Pipeline) (In Progress)
+- [Wine Quality Pipeline](#Wine-Quality-Pipeline) (Completed)
 
 **Generative AI**
 - [GPT2 Textgen App](#GPT2-Textgen-App) (In Progress)
