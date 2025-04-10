@@ -260,19 +260,20 @@ Technologies Used: Python, FastAPI, GPT-2, Hugging Face Transformers, TensorFlow
 
 **Key features**:
 
-	•	Real-Time Text Generation: Uses GPT-2 for high-quality, contextually relevant text generation based on user input.
+	•	Real-Time Text Generation: Uses GPT-2 to generate contextually relevant and high-quality text based on user input.
  
-	•	API-Driven Architecture: Deployed with FastAPI, providing efficient and scalable endpoints for text generation.
+	•	Customizable Parameters: Offers flexibility by allowing users to adjust parameters such as temperature and max length to control the generated output.
  
-	•	Customizable Parameters: Allows customization of model parameters such as temperature and max length for flexible output control.
+	•	API-Driven Deployment: FastAPI-based architecture for efficient, scalable text generation with easy API integration.
 
 **Project Highlights**:
 
-	•	Practical Applications: Designed for both research and deployment in creative content generation, chatbots, and more.
+	•	Practical Applications: Suitable for creative content generation, chatbots, and interactive applications requiring dynamic text generation.
  
-	•	Scalability & Flexibility: Easily extendable for future improvements, including integration with more powerful models and cloud platforms.
+	•	Scalable and Extendable: Built with scalability in mind, allowing for future enhancements, such as integrating more powerful models or cloud-based solutions.
  
-	•	fficient Deployment: Optimized with FastAPI for fast, production-ready deployment in real-world scenarios.
+	•	Production-Ready Deployment: FastAPI ensures efficient, high-performance deployment, making the app ready for real-world applications.
+
 
 Status: Ongoing
 
