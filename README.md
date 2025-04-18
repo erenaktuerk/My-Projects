@@ -3,6 +3,8 @@
 Collection and categorization of my projects
 
 ## Overview:
+**Data Engineering Projects**
+
 
 **Machine Learning Projects**
 
@@ -46,6 +48,9 @@ Collection and categorization of my projects
 - [Net Immobilien - web page](#Net-Immobilien-web-page)
 - [Tiggolino - web page](#Tiggolino-web-page)
 - [Tumuratas - web page](#Tumuratas-web-page)
+
+## Data Engineering Projects
+### [Weather Crypto Pipeline GCP](https://github.com/erenaktuerk/weather-crypto-pipeline-gcp)
 
 ## Machine Learning Projects
 
