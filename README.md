@@ -4,7 +4,7 @@ Collection and categorization of my projects
 
 ## Overview:
 **Data Engineering Projects**
-
+- [Weather Crypto Pipeline GCP](#weather-crypto-pipeline-gcp)
 
 **Machine Learning Projects**
 
