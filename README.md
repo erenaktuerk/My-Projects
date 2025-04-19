@@ -51,6 +51,23 @@ Collection and categorization of my projects
 
 ## Data Engineering Projects
 ### [Weather Crypto Pipeline GCP](https://github.com/erenaktuerk/weather-crypto-pipeline-gcp)
+A production-ready data pipeline using Apache Airflow to connect weather data with cryptocurrency prices. This DAG automates data collection, processing, and storage to support data-driven decision-making. The project showcases modern workflow orchestration and is ideal for real-world applications.
+
+**Model Type**: Data Pipeline / Workflow Automation
+
+**Technologies Used**: Airflow, Python, Pandas, Requests, SQLite, Gunicorn
+
+**Key Features**
+	•	Modular DAG Structure: Automated steps for fetching weather and crypto data, processing it, and storing the results.
+	•	Extensible & Maintainable: Easily adjustable PythonOperator tasks for various data sources and logic.
+	•	Web-Based Monitoring: Manage and monitor the pipeline through Airflow’s user-friendly web interface.
+
+**Project Highlights**
+	•	Production-Like Setup: Local Airflow environment with scheduler, webserver, and task monitoring.
+	•	Automated Workflows: Fully automated data processing pipeline with scheduled execution.
+	•	Reproducible Installation: Virtualenv-based setup with documented requirements and configuration.
+
+**Status**: In Progress
 
 ## Machine Learning Projects
 
