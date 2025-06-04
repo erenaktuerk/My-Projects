@@ -50,6 +50,32 @@ Collection and categorization of my projects
 - [Tumuratas - web page](#Tumuratas-web-page)
 
 ## Data Engineering Projects
+### [Banking-Analytics-Warehouse](https://github.com/erenaktuerk/Banking-Analytics-Warehouse)
+A robust, scalable data warehouse project designed to streamline banking data analytics and compliance reporting. Leveraging modern data engineering tools, it enables efficient ETL orchestration, version-controlled transformations, and seamless integration with Snowflake. This project exemplifies best practices in modular data modeling and infrastructure-as-code for enterprise-grade analytics.
+
+**Model Type**: Data Warehouse / ETL Pipeline / Analytical Data Modeling
+
+**Technologies Used**: Snowflake, dbt, Python, SQL, Git, PowerShell, Visual Studio Code, Airflow, Docker, Terraform
+
+**Key Features**
+
+	•	Modular, Version-Controlled Data Models: dbt-based SQL models enabling testable, reusable, and maintainable transformations with clear lineage tracking.
+ 
+	•	Cloud-Native Data Warehouse: Fully integrated with Snowflake’s scalable compute and storage capabilities for high performance and concurrency.
+ 
+	•	Robust Environment Management: Profiles and configurations enabling secure credential handling and environment isolation for development and production.
+
+ **Project Highlights**
+ 
+	•	Automated Data Orchestration Ready: Designed to integrate with workflow managers like Airflow for scheduled, end-to-end pipeline automation.
+ 
+	•	Infrastructure as Code Ready: Setup structured for future integration with Terraform and Docker for reproducible and scalable deployments.
+ 
+	•	Professional Project Structure: Clean, documented, and organized repository following best practices for collaboration, versioning, and maintainability.
+
+ **Status**: In Progress
+
+
 ### [Weather Crypto Pipeline GCP](https://github.com/erenaktuerk/weather-crypto-pipeline-gcp)
 A production-ready data pipeline using Apache Airflow to connect weather data with cryptocurrency prices. This DAG automates data collection, processing, and storage to support data-driven decision-making. The project showcases modern workflow orchestration and is ideal for real-world applications.
 
@@ -58,14 +84,21 @@ A production-ready data pipeline using Apache Airflow to connect weather data wi
 **Technologies Used**: Airflow, Python, Pandas, Requests, SQLite, Gunicorn
 
 **Key Features**
+
 	•	Modular DAG Structure: Automated steps for fetching weather and crypto data, processing it, and storing the results.
+ 
 	•	Extensible & Maintainable: Easily adjustable PythonOperator tasks for various data sources and logic.
+ 
 	•	Web-Based Monitoring: Manage and monitor the pipeline through Airflow’s user-friendly web interface.
 
 **Project Highlights**
+
 	•	Production-Like Setup: Local Airflow environment with scheduler, webserver, and task monitoring.
+ 
 	•	Automated Workflows: Fully automated data processing pipeline with scheduled execution.
+ 
 	•	Reproducible Installation: Virtualenv-based setup with documented requirements and configuration.
+ 
 
 **Status**: In Progress
 
