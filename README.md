@@ -4,6 +4,7 @@ Collection and categorization of my projects
 
 ## Overview:
 **Data Engineering Projects**
+- [Banking Analytics Warehouse](#Banking-Analytics-Warehouse)
 - [Weather Crypto Pipeline GCP](#weather-crypto-pipeline-gcp)
 
 **Machine Learning Projects**
