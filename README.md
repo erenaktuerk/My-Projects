@@ -27,7 +27,7 @@ Collection and categorization of my projects
 - [Wine Quality Pipeline](#Wine-Quality-Pipeline) (Completed)
 
 **Generative AI**
-- [GPT2 Textgen App](#GPT2-Textgen-App) (In Progress)
+- [GPT2 Textgen App](#GPT2-Textgen-App) (Completed)
 
 **ML API Deployment**
 - [Credit Risk API](#Credit-Risk-API) (Completed)
