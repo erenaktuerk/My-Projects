@@ -3,6 +3,9 @@
 Collection and categorization of my projects
 
 ## Overview:
+**AI Risk Management & Governance**
+- [Secure ML Audit Framework](#SecureML-Audit-Framework)
+
 **Data Engineering Projects**
 - [Banking Analytics Warehouse](#Banking-Analytics-Warehouse)
 - [Weather Crypto Pipeline GCP](#weather-crypto-pipeline-gcp)
@@ -50,6 +53,34 @@ Collection and categorization of my projects
 - [Tiggolino - web page](#Tiggolino-web-page)
 - [Tumuratas - web page](#Tumuratas-web-page)
 
+
+## AI Risk Management & Governance
+### [SecureML-Audit-Framework](https://github.com/erenaktuerk/secureML-audit-framework)
+SecureML Audit Framework is a comprehensive AI security and governance toolkit designed for regulated financial environments. It offers automated risk classification, bias detection, model audit logging, and incident response simulation to ensure compliance with frameworks like the EU AI Act and BaFin. This project demonstrates practical expertise in securing ML workflows against attacks and governance pitfalls.
+
+**Model Type**: Data Warehouse / ETL Pipeline / Analytical Data Modeling
+
+**Technologies Used**: Snowflake, dbt, Python, SQL, Git, PowerShell, Visual Studio Code, Airflow, Docker, Terraform
+
+**Key Features**
+
+	•	Automated model risk assessment and bias detection with explainability
+ 
+	•	Incident response playbook simulating real-world AI security breaches
+ 
+	•	Modular governance pipeline supporting traceability and compliance audit
+
+ **Project Highlights**
+ 
+	•	Integration of AI security best practices tailored for financial services
+ 
+	•	Simulation of prompt injection attacks and secure response strategies
+ 
+	•	Detailed audit trail generation aligned with regulatory standards
+ 
+ **Status**: In Progress
+
+ 
 ## Data Engineering Projects
 ### [Banking-Analytics-Warehouse](https://github.com/erenaktuerk/Banking-Analytics-Warehouse)
 A robust, scalable data warehouse project designed to streamline banking data analytics and compliance reporting. Leveraging modern data engineering tools, it enables efficient ETL orchestration, version-controlled transformations, and seamless integration with Snowflake. This project exemplifies best practices in modular data modeling and infrastructure-as-code for enterprise-grade analytics.
