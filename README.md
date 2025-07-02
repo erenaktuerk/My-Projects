@@ -12,9 +12,11 @@ Collection and categorization of my projects
 
 **Machine Learning Projects**
 
+**Unsupervised Learning**
 *Clustering Projects*
 - [Online Retail Customer Clustering](#Online-Retail-Customer-Clustering) (Completed)
 
+**Supervised Learning**
 *Regression Projects*
 - [AAPL Share Prediction](#AAPL-Share-Prediction) (Completed)
 - [Energy Predict](#Energy-Predict) (Completed)
