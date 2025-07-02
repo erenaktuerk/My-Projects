@@ -60,7 +60,7 @@ SecureML Audit Framework is a comprehensive AI security and governance toolkit d
 
 **Model Type**: Data Warehouse / ETL Pipeline / Analytical Data Modeling
 
-**Technologies Used**: Snowflake, dbt, Python, SQL, Git, PowerShell, Visual Studio Code, Airflow, Docker, Terraform
+**Technologies Used**: scikit-learn, pandas, numpy, matplotlib, streamlit, datetime, Git(, optional Docker)
 
 **Key Features**
 
